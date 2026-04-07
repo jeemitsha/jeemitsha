@@ -15,5 +15,5 @@ Building AI-powered tools & exploring the cutting edge of LLM agents.
 ---
 
 <p align="center">
-  Solapur, India
+  India
 </p>
