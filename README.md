@@ -1,6 +1,6 @@
 ### Hey, I'm Jeet 👋
 
-Founder at **[Nidana HQ](https://github.com/nidanahq)** — building AI-powered tools & exploring the cutting edge of LLM agents.
+Founder at **[Nidana, Inc.](https://nidana.io)** — building AI-powered tools & exploring the cutting edge of LLM agents.
 
 #### What I'm working with
 - 🤖 Claude Code, MCP servers, AI agents, multi-agent workflows
