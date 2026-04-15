@@ -1,6 +1,6 @@
 ### Hey, I'm Jeet 👋
 
-Founding engineer of a seed-stage AI-native CRM startup in healthcare. Building AI-powered tools & exploring the cutting edge of LLM agents.
+Founding engineer at a seed-stage AI-powered veterinary clinic management startup. Building AI-powered tools & exploring the cutting edge of LLM agents.
 
 #### What I'm working with
 - 🤖 Claude Code, MCP servers, AI agents, multi-agent workflows
