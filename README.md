@@ -1,32 +1,34 @@
-### Hey, I'm Jeet 👋
+### Hey, I'm Jeet
 
-Founding engineer at a seed-stage AI-powered veterinary clinic management startup. Building AI-powered tools & exploring the cutting edge of LLM agents.
+Founding engineer building production full-stack SaaS and AI-agent workflows for veterinary practice management. I work across TypeScript, Next.js, NestJS, PostgreSQL, AWS, retrieval systems, secure tool integrations, and forward-deployed customer onboarding.
 
 #### What I'm working with
-- 🤖 Claude Code, MCP servers, AI agents, multi-agent workflows
-- ⚡ React, Next.js, Node.js, TypeScript, Python
-- 📱 Twilio (SMS/Voice), WebSockets, real-time systems
-- ☁️ AWS, PostgreSQL, Redis, Docker
-- 🌾 Also commercializing agricultural tech in India
+- AI agents, RAG pipelines, citation-aware retrieval, structured outputs, and bounded tool actions
+- React, Next.js, NestJS, Node.js, TypeScript, Python, PostgreSQL, Redis
+- WebRTC, LiveKit, WebSockets, Twilio, real-time collaboration, and multimodal communication systems
+- AWS ECS/CDK, OIDC, Secrets Manager, signed webhooks, scoped credentials, and Docker
+- MCP servers, agent-accessible tools, secure integration boundaries, and context engineering
 
-#### Currently exploring
-- Context engineering for AI coding assistants
-- Building MCP integrations & Claude Code plugins
-- Multi-agent workflows & LLM orchestration
+#### Current focus
+- Building auditable AI workflows for clinical and operational data
+- Designing retrieval and context-generation layers that respect clinic and brand boundaries
+- Shipping forward-deployed onboarding, data migration, and multi-location rollout tooling
+- Building deterministic runtime systems around LLM-generated adapters and tool calls
 
 #### Featured work
-- **AI-Powered SaaS Platform** — Full platform from scratch: real-time collaborative forms, EMR/document management, multi-tenant architecture
-- **AI Voice Agent** — Automated outbound calls with real-time speech processing & intelligent turn detection
-- **DRM Video Player** — Canvas-based player with real-time watermarking & tamper detection
-- **Intelligent Document Processing** — OCR pipeline using Google AI with structured validation
+- **Veterinary practice management SaaS** — Full-stack platform covering clinical workflows, EMR, collaboration, communications, inventory, billing, and onboarding.
+- **Clinical AI / RAG** — Citation-backed search and summaries over patient records with structured outputs and source traceability.
+- **AI-agent workflows** — Voice, analytics, and operational agents with bounded tools, streaming UX, secure credentials, and tenant-aware data access.
+- **Forward-deployed engineering** — Legacy PIMS migration, customer onboarding, live data audits, and multi-location operational rollouts.
+- **DRM video platform** — Secure paid content delivery with encrypted playback, watermarking, Stripe billing, and admin tooling.
 
 ---
 
 <p align="center">
-  <a href="https://jeemitsha.github.io">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/jeet-shah-29732183/">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:jeemitsha@gmail.com">✉️ Email</a>
+  <a href="https://jeemitsha.github.io">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jeet-shah-29732183/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:jeemitsha@gmail.com">Email</a>
 </p>
 <p align="center">
-  📍 India
+  Milpitas, CA
 </p>
